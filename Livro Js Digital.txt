@@ -1,0 +1,5 @@
+Transformar todo o livro de js em digital. 
+
+Com capa, explicações, indices, exemplos e textos. 
+
+Sendo possivel avançar entre capitulos e exercicios, mudar de páginas e solucionar problemas. 

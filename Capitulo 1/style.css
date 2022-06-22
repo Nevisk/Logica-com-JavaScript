@@ -1,0 +1,34 @@
+* {
+    margin: 5px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial;
+    height: 9000px;
+}
+
+.main {
+    height: auto;
+    width: auto;
+    background-color: #3280cd44;
+    border: solid 1px black;
+}
+
+pre, code {
+    line-height: 20px;
+    font-size: 11px;
+}
+
+::-webkit-scrollbar {
+    background-color: #ffffff;
+    border-left: 1px solid black;
+    width: 15px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #37378f;
+    border-radius: 1px;
+    height: 10px;
+}
