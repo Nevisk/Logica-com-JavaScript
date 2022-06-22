@@ -9,6 +9,18 @@ body {
     font-family: Arial;
     height: 500px;
 }
+
+::-webkit-scrollbar {
+    background-color: #ffffff;
+    border-left: 1px solid black;
+    width: 15px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #37378f;
+    border-radius: 1px;
+    height: 10px;
+}
 /* Fim Pré Sets */
 
 
