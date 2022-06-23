@@ -52,4 +52,16 @@ body {
     line-height: 18px;
     padding: 5px;
 }
+
+.Primeiro-exercicio {
+    background-color: #76c3f2fe;
+    text-decoration: none;
+    color: black;
+    border: solid 1px;
+    letter-spacing: 2px;
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 10px;
+    padding: 5px;
+}
 /* Fim Corpo */
